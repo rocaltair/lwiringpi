@@ -1,6 +1,8 @@
 # lwiringpi
 wiringPi(https://github.com/WiringPi/WiringPi) wraped  for lua
 
+tested on rasbian
+
 # Functions
 
 lwiringpi.wiringPiSetup()
@@ -115,6 +117,6 @@ clone this repo to your dir
 
 make && sudo make install
 
-tested on rasbian
+
 
 
