@@ -2,7 +2,7 @@
 #include <lua.h>
 #include <lauxlib.h>
 
-#define LIBNAME "lgpio"
+#define LIBNAME "lwiringpi"
 
 #define ARRAY_LINE(KEY)	\
 	{ #KEY , KEY }
